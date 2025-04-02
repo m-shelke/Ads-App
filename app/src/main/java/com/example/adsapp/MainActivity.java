@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                             @Override
                             public void onAdFailedToShowFullScreenContent(@NonNull AdError adError) {
                                 // Called when ad fails to show.
-                                Log.e(TAG, "Ad failed to show fullscreen content.");
+                                Log.e(TAG, "Ad failed to show fullscreen content."+adError.getCause());
                                 mInterstitialAd = null;
                             }
 
