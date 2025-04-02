@@ -2,4 +2,7 @@
     <string name="app_name">Ads App</string>
     <string name="app_id">ca-app-pub-5835753305079450~8928374467</string>
     <string name="banner_ad_unit_id">ca-app-pub-5835753305079450/4545575626</string>
+
+    <string name="inter_app_id">ca-app-pub-5835753305079450~1835559917</string>
+    <string name="inter_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
 </resources>
